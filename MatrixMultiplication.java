@@ -3,6 +3,7 @@ programs of java
 //matrix multiplication
 
 
+//Importing Scanner class from util package
 import java.util.Scanner;
 
 public class MatrixMultiplication
